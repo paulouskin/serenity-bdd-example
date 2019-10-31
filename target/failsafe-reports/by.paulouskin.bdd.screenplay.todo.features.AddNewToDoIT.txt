@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: by.paulouskin.bdd.screenplay.todo.features.AddNewToDoIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.549 s <<< FAILURE! - in by.paulouskin.bdd.screenplay.todo.features.AddNewToDoIT
+should_be_able_to_add_the_first_todo_item(by.paulouskin.bdd.screenplay.todo.features.AddNewToDoIT)  Time elapsed: 10.288 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a collection containing "dupisko"
+     but: was "Make something useful."
+	at by.paulouskin.bdd.screenplay.todo.features.AddNewToDoIT.should_be_able_to_add_the_first_todo_item(AddNewToDoIT.java:36)
+

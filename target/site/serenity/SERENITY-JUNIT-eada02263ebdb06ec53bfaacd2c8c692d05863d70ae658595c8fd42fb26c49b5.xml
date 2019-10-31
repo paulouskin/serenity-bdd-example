@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="by.paulouskin.bdd.screenplay.todo.features.AddNewToDoIT" skipped="0" tests="1" time="10.24" timestamp="2019-10-31 11:35:45"><testcase classname="by.paulouskin.bdd.screenplay.todo.features.AddNewToDoIT" name="Should be able to add the first todo item"><failure message="&#10;Expected: a collection containing &quot;dupisko&quot;&#10;     but: was &quot;Make something useful.&quot;" type="java.lang.AssertionError">
+Expected: a collection containing "dupisko"
+     but: was "Make something useful."</failure><system-err>
+Expected: a collection containing "dupisko"
+     but: was "Make something useful."
+by.paulouskin.bdd.screenplay.todo.features.AddNewToDoIT.should_be_able_to_add_the_first_todo_item(AddNewToDoIT.java:36)
+</system-err></testcase></testsuite>
