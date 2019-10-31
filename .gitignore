@@ -11,6 +11,7 @@
 .idea/dictionaries
 .idea/*.xml
 .idea
+target
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
